@@ -1,7 +1,11 @@
 ---
-title: Daniel E. Agee
-timezone: UTC
+title: Outline Studio
+timezone: Europe/Amsterdam
 collections:
+  notes:
+    title: Notes
+    output: true
+    permalink: notes
   posts:
     title: Posts
     output: true
